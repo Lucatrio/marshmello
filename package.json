@@ -1,0 +1,14 @@
+{
+  "name": "marshmello",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dj.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Lucatrio",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
